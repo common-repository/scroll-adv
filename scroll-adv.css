@@ -1,0 +1,16 @@
+#left-sadv,
+#right-sadv {
+    width: 150px;
+    overflow: hidden;
+    display: inline;
+}
+
+#left-sadv {
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+
+#right-sadv {
+    float: right;
+    margin: 0px 10px 0px 0px;
+}
